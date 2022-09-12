@@ -1,0 +1,13 @@
+ Q1 A callback is a function that is passed as an argument to another function that executes the callback based on the result. A callback hell is function which is also called as the nested callbacks which form one on the another and form pyramid.
+
+ Q2 for in loop and hasOwnProperty() is used for the iterate an object in javascript.forin loop has no properties and hasOwnProperty() has the properties.Based on those the iterations are worked.
+
+ Q4 Implicit conversion happens when JavaScript conversion the value type to the expected type under the hood. This type of coercion happens without the developer noticing.
+
+  Q7 Curring:
+    It is a function which takes one value at a time and returnsa new function and expects the next argument.
+
+ Q5 pass by value : A function is called directly by sending the value of the variable as an argument if that function is pass-by-value. As a result, any changes made within the function have no impact on the initial or original value 
+ pass by reference : A function is called by supplying the variable’s reference/address as a parameter in pass-by reference. As a result, modifying the value within the function also modifies the value outside the function that is the original value.
+Q9  javascript : lossly typed JavaScript. prototype based language.
+    typescript : it is typed safe script whatever is typed in javascript is converted to typescript.it is object oriented.
