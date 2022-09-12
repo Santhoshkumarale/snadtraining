@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        let arry = [1, 2, 3, 1, 2, 3, 1, 2, 3, 4, 5, 6, 2, 3, 1, 2];
+        console.log(arry)
+
+
+        //repeated elements
+        let duplicate = arry.filter((ele, index) => arry.indexOf(ele) !== index)
+        console.log(duplicate)
+        let output1 = Array.from(new Set(duplicate));
+        console.log(output1)
+
+
+        //Unique Elements
+        let output2 = Array.from(new Set(arry))
+        console.log(output2)
+
+
+       
+    </script>
+</head>
+</html>

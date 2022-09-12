@@ -1,0 +1,156 @@
+
+
+
+// 2=>Explain how to iterate an object in javascript?
+// A)Using for.in loop: The properties of the object can be iterated over using a for..in loop. This loop is used to iterate over all iterable properties of an object. 
+// Some objects may contain properties that may be inherited from their prototypes.
+
+//  The hasOwnProperty() method can be used to check if the property belongs to the object itself. 
+//  The value of each key of the object can be found by using the key as the index of the object.
+//  for(const key in empobj){
+//     console.log(key,"-->",empobj[key])
+//  }
+
+// Object.entries(): This method is used to return an array of the object property pairs. The returned array is used with the map() method to extract the key and value from the pairs.
+// The first index corresponds to the key and the second index corresponds to the value of the pair.
+// for(const[key,value]of object.entries(empobj))
+
+// example:
+//    let keys = Object.keys(custObj);
+//    console.log(keys);
+//    let values=Object.values(custObj);
+//    console.log(values);
+//    for (const key in custObj){
+//    console.log(key,"-->", custObj[key]);
+    
+//    for (const [key,value] of Object .entries(custObj)){
+//    console.log(key," ",value);
+
+
+// 3=>Explain about promises and create a custom promise with simple example?
+// A)promises:
+// promise is an object in java script represents eventual completion of an
+// asynchronous operation.
+// promises has three properties
+// 1.pending
+// 2.fulfilled
+// 3.rejected
+// promise object is pending the result is undefined
+// promise object is fulfilled the result is value
+// promise object is rejected the result is error
+// example:
+// <script>
+//  let promise=new Promise((resolve, reject) => {
+//             let a=10;
+//             let b=100;
+//             let c=1/b;
+//             if(a>b)
+//                  resolve(c);
+//             else
+//                  reject("invalid data");
+//         });
+//         promise
+//            .then(data=>console.log(data))
+//            .catch(reason=>console.log(reason))
+//            .finally(()=>console.log("finally block"));
+//  </sript>
+
+
+//  4=>what is implicit type coercion in javascript?
+//  A)Type coercion is the process of converting value from one type to another.
+//  values can also be converted between different types automatically, and it is called implicit type coercion. 
+//  It usually happens when you apply operators to values of different types.
+ 
+// One operator that does not trigger implicit type coercion is ===, which is called the strict equality operator.
+// The loose equality operator == on the other hand does both comparison and type coercion if needed.
+
+
+// 1=>what is callback function and callback fire in javascript?
+// A)call back: is a function that is passed as an 
+// argument to another function. 
+// All the variables of this function must be declared in the call back function scope.
+// we can call this function when ever we want in the later code within the program.
+// example:
+//     function fun1(fun){
+//             console.log("function1");
+//         }
+//         function fun2(){
+//             console.log("function2");
+//         }
+//         fun1(fun2);
+
+// callback fire():callbacks.fire() method is used to call all the callbacks with the given arguments in the list. 
+// This method returns the callbacks object onto which it is attached.
+
+
+//  6=>What is differene between css grid and flex Explain with example?
+//  A)CSS Grids helps you create the outer layout of the webpage. 
+//  You can build complex as well responsive design with this.is a two-dimensional grid-based layout system with rows and columns, 
+//  making it easier to design web pages without having to use floats and positioning. 
+//  Like tables, grid layout allow us to align elements into columns and rows.
+
+//  Flex: a one-dimensional layout. It is helpful in allocating and aligning the space among items in a container made of grids. 
+//  It works with all kinds of display devices and screen sizes.mostly helps align content & move blocks.
+
+
+//  7->Explain about currying with example?
+//  A)Function currying is a function that takes one argument at a time and returns
+//  new function expecting the next argument.
+//  when we wanted to use the same call with some of the same parameters a lot,it helps 
+//  to avoid passing the same variable again and again.
+//  example:
+//  let multiply = (a) => (b) => (c) => {
+
+//     return a * b * c;
+// }
+// let res2 = multiply(1)(2)(3);
+// console.log(res2);
+
+// 5=>Explain passed by value and passed by reference in javascript?
+// A)Pass By Value: In Pass by value, function is called by directly passing the value of the variable as an argument. 
+// So any changes made inside the function does not affect the original value.
+// In Pass by value, parameters passed as an arguments create its own copy. 
+// So any changes made inside the function is made to the copied value not to the original value.
+//  Pass By reference:Function is called by directly passing the reference/address of the variable as an argument.
+//  So changing the value inside the function also change the original value. 
+//  In JavaScript array and Object follows pass by reference property.
+
+
+// 8=>Explain about object prototype add reverse method to string class to reverse a string?
+// A)prototype is a property that adds the new properties 
+// to the object constructor.javaScript objects inherit features from one another.
+// Example:
+// <script>
+//         function reverse(str){
+//         let r = "";
+//         for(let i = str.length-1; i >= 0; i--){
+//           r += str[i];
+//         }
+//         return r;
+//       }
+      
+//       console.log(reverse("susmitha"))
+//         </script>
+ 
+
+//  9=>What are the differenes between javaScript and typescript?
+//  A)javascript:
+//    it is a scripting language which helps you create interactive web pages.
+//    client-side programming, 
+//    runs on users web browser without webserver.
+//    the script is placed in the head or body tag in html page.
+//    it dosen't support interface concept.
+
+//   typescript:
+//   typescript is modern scripting language
+//   it is statically compiled language to write a piece of java script code
+//   it is a statically compiled language to write clear and simple JavaScript code. 
+//   it can run on node js
+//   it has types and interfaces
+//   it supports prototype.
+
+
+// 10=>How to acess data from one script block to another?
+// A)The <script> tag is used to embed a client-side script (JavaScript).
+// The <script> element either contains scripting statements, 
+// it points to an external script file through the src attribute.

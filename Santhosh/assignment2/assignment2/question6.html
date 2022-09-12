@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>event looping</title>
+    <script>
+          console.log("Before delay");
+  
+              function delayBySeconds(sec) {
+                   let start = now = Date.now()
+                   while(now-start < (sec*1000)) {
+                         now = Date.now();
+                    }
+                }
+      
+                  delayBySeconds(5);
+    
+ 
+            console.log("After delay");
+    </script>
+</head>
+<body>
+    <h1>
+        event looping
+    </h1>
+     *when a function is waiting in stack memeory and in the heap mempory is connected to the stack memory and the next it is connected to the event queue and in there the function is awaiting.
+     *and it is also called as the single thread functionality.
+</body>
+</html>

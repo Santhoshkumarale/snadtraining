@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shallow copy Deep copy</title>
+    <script>
+        //shallowcopy
+     const empobj = {
+        firstName : "Santhosh",
+        lastName : "Kumar"        
+     };
+     let copiedobj = empobj;
+     console.log(empobj);
+     console.log(copiedobj);
+     copiedobj.firstName = "sakeet";
+     console.log(empobj);
+     console.log(copiedobj);
+
+     //deepcopy
+
+     let copiedobj = JSON.parse(JSON.stringify(empobj));
+     console.log(empobj);
+     console.log(copiedobj);
+     copiedobj.firstName = "francis";
+     console.log(empobj);
+     console.log(copiedobj);
+
+
+    </script>
+</head>
+<body>
+    <h1>Shallow copy Deep copy</h1>
+    In shallow copy we will have only one instance of that object the same thing will be shared by the multiple reference variables
+    In deep copy adding the other after the using the stringify we can use asthe deep copy.
+</body>
+</html>

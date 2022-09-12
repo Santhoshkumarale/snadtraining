@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="row">
+      <div class="col-12">
+          <a [routerLink]="['/']">home</a> &nbsp;&nbsp; | &nbsp; &nbsp;
+          <a [routerLink]="['/about']">about</a> &nbsp;&nbsp; | &nbsp; &nbsp;
+          <a [routerLink]="['/services']">services</a> &nbsp;&nbsp; | &nbsp; &nbsp;
+          <a [routerLink]="['/contactus']">contactus</a>
+
+      </div>
+  </div>
+  <br>
+  <div class="row" style="min-height: 1000px;">
+      <div class="col-12">
+          <router-outlet></router-outlet>
+      </div>
+  </div>
+  <br>
+  <div class="row">
+      <div class="col-12">
+          Designed By : SANTHOSH
+      </div>
+  </div>
+</div>

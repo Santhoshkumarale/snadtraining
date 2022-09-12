@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        //naming convensions
+
+        function showName(){
+            console.log("My name is Ram");
+        }
+        showName();
+        //for dynamically naming
+
+        function showName(name){
+            console.log("My name is",name);
+        }
+        showName();
+
+        //non-returnable functions
+
+        function showName (name){
+            console.log("my name is",name);
+        }
+        showName("Ram");
+        showName("Rahim");
+
+        //returnable function
+
+        function sum(a,b){
+            return a+b ;
+        }
+
+        console.log(sum(10,20));
+
+        //concatinating
+        function sum(a,b){
+            return a+b ;
+        }
+        console.log(sum(10,"20"));
+        //substraction
+        function sum(a,b){
+            return a-b ;
+        }
+        console.log(sum(100,"200"))
+        //multiplication
+        function sum(a,b){
+            return a*b ;
+        }
+        console.log(sum(10,20))
+        //eg1 arguments array
+        function sum1(){
+            var s=0;
+            for(var i=0;i<arguments.length;i++){
+                s=s+arguments[i];
+            }
+            console.log(s);
+        }
+
+        sum1(10,20);
+        sum1(10,20,30);
+        sum1(10,20,30,40,50,60);
+
+        //function expression
+        var mul = function(a,b){
+            return a*b;
+        }
+        console.log(mul(10,20));
+
+        //IIFE Immediately Invokable Function Expression 
+        (function display(){
+        console.log("this is display function")})();
+        //default arguments eg1
+        function calculate(a,b){
+            return a*b ;
+        }
+        console.log(calculate(10,20));
+        //eg2
+
+        function calculate(a,b=100){
+            return a*b ;
+        }
+        console.log(calculate(10));
+
+        //eg3
+        function calculate(a=100,b){
+            return a*b;
+        }
+        console.log(calculate(10));
+
+        //arrowfunctions  eg1
+
+        var mul1 = (a,b) => a*b;  //single statement
+        console.log(mul1(100,200));
+        
+        //eg2
+
+        var mul1 = (a,b)=>{
+            return a*b ;            //multiple statements
+        }
+        console.log(mul1(100,200));
+        //eg1
+        var a=100;
+        function show(){
+            var a=200;
+            console.log(a);
+        }
+        show();
+        console.log(a);
+        //eg2
+        var a=100;
+        function show(){
+            a=200;
+            console.log(a);
+        }
+        show();
+        console.log(a);
+
+        //hoeisting
+        
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

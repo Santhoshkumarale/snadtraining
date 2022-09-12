@@ -1,0 +1,16 @@
+<table class="table">
+    <thead>
+        <tr>
+            <th *ngFor="let col of gridColumns">
+                {{col}}
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let row of gridData">
+            <td *ngFor="let col of gridColumns">
+                {{row[col]}}
+            </td>
+        </tr>
+    </tbody>
+</table>

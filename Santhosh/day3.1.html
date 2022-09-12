@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+         // == and === differences
+         //eg 1
+       if(10=="10"){
+        console.log("true");
+       }
+       else{
+        console.log("false");
+       }
+       //eg 2
+       if(10==="10"){
+        console.log("true");
+       }
+       else{
+        console.log("false");
+       }
+       //eg 3
+       if(null==undefined){
+        console.log("true");
+       }
+       else{
+        console.log("false");
+       }
+       //eg 4
+       if(null===undefined){
+        console.log("true");
+       }
+       else{
+        console.log("false");
+       }
+
+       //eg 5
+
+       var result=true;
+       if(result=true){
+        result=false;
+       }
+       else{
+        result=true;
+       }
+       console.log(result);
+
+       var result=false;
+       if(result){
+        result=false;
+       }
+       else{
+        result=true;
+       }
+       console.log(result);
+
+       //eg 6
+       var result = true;
+       result = !result;
+       console.log (result);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
