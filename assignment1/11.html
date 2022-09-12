@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration form with validations</title>
+    <script>
+        function validateUserName() {
+            var userCtrl = document.getElementById('userName');
+            if (userCtrl.value == "") {
+                document.getElementById("userNameError").innerHTML = "Enter your user name";
+                userCtrl.focus();
+                return false;
+            }
+            else {
+                if (userCtrl.value.length < 6) {
+                    document.getElementById("userNameError").innerHTML = "Min. 6 characters are required";
+                    passCtrl.focus();
+                    return false;
+                }
+                document.getElementById("userNameError").innerHTML = "";
+                return true;
+            }
+            console.log(userCtrl);
+        }
+        function validateMobilenumb() {
+            var userCtrl = document.getElementById('number');
+            if (userCtrl.value == "") {
+                document.getElementById("MBerror").innerHTML = "Enter 10 digit mobile number";
+                userCtrl.focus();
+                return false;
+            }
+            else {
+                if (userCtrl.value.length < 10) {
+                    document.getElementById("MBerror").innerHTML = "Min. 10 numbers are required";
+                    passCtrl.focus();
+                    return false;
+                }
+                document.getElementById("MBerror").innerHTML = "";
+                return true;
+            }
+        }
+
+        function validatePassword() {
+            var passCtrl = document.getElementById("password");
+            if (passCtrl.value == "") {
+                document.getElementById("passwordError").innerHTML = "Enter the password";
+                passCtrl.focus();
+                return false;
+            }
+
+            else {
+                if (userCtrl.value.length < 6) {
+                    document.getElementById("MBerror").innerHTML = "Min. 6 characters are required";
+                    passCtrl.focus();
+                    return false;
+                }
+                document.getElementById("passwordError").innerHTML = "";
+                return true;
+            }
+        }
+        function validateDOB() {
+            var userCtrl = document.getElementById('date');
+            if (userCtrl.value == "") {
+                document.getElementById("DOBerror").innerHTML = "Enter DOB";
+                userCtrl.focus();
+                return false;
+            }
+            else {
+                if (userCtrl.value.date < 1985) {
+                    document.getElementById("DOBerror").innerHTML = "Min. age is required";
+                    passCtrl.focus();
+                    return false;
+                }
+                document.getElementById("DOBerror").innerHTML = "";
+                return true;
+            }
+        }
+        function validateAddress() {
+            var userCtrl = document.getElementById('Address');
+            var atposition = x.indexOf("@");
+            var dotposition = x.lastIndexOf(".");
+
+            if (userCtrl.value == "") {
+                document.getElementById("ADDerror").innerHTML = "Enter Address";
+                userCtrl.focus();
+                return false;
+            }
+            else {
+                if (userCtrl.value < 10) {
+                    document.getElementById("ADDerror").innerHTML = "Please enter a valid e-mail address \n atpostion:" + atposition + "\n dotposition:" + dotposition;
+                    passCtrl.focus();
+                    return false;
+                }
+                document.getElementById("ADDerror").innerHTML = "";
+                return true;
+            }
+        }
+        function validateData() {
+            let uStatus = validateUserName();
+            let pStatus = validatePassword();
+            let mStatus = validateMobilenumb();
+            let DStatus = validateDOB();
+            let AStatus = validateAddress();
+            if (uStatus == false || pStatus == false || mStatus == false || DStatus == false || AStatus == false) {
+                event.preventDefault();
+            }
+        }
+        function sConsole() {
+            var userCtrl = document.getElementById("userName");
+            var userCtrl = document.getElementById("password");
+            var userCtrl = document.getElementById("number");
+            var userCtrl = document.getElementById("date");
+            var userCtrl = document.getElementById("Address");
+            console.log(userName.value());
+            console.log(password.value());
+            console.log(number.value());
+            console.log(date.value());
+            console.log(Address.value());
+        }
+        sConsole();
+
+    </script>
+
+</head>
+
+<body>
+
+    <form action="login.aspx" method="post" onsubmit="validateData()">
+        <table border="2" cellpadding="10" cellspacing="0" align="center">
+            <tr>
+                <td>Enter User Name</td>
+                <td>
+                    <input type="text" id="userName" value="" placeholder="User Name" onblur="validateUserName()"> <br>
+                    <span id="userNameError" style="color: red;"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>Enter Password</td>
+                <td>
+                    <input type="password" id="password" value="" placeholder="Password" onblur="validatePassword()">
+                    <br>
+                    <span id="passwordError" style="color: red;"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>Enter Mobile Number</td>
+                <td>
+                    <input type="number" id="number" value="" placeholder="Mobile number" onblur="validateMobilenumb()">
+                    <br>
+                    <span id="MBerror" style="color: red;"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>Enter Date Of Birth</td>
+                <td>
+                    <input type="date" id="date" value="" onblur="validateDOB()"> <br>
+                    <span id="DOBerror" style="color: red;"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>Enter Address</td>
+                <td>
+                    <input name="Address" id="Address" cols="30" rows="10" onblur="validateAddress()">
+                </td>
+            </tr>
+
+
+            <tr>
+                <td></td>
+                <td>
+                    <button type="submit" value="submit">Submit</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+
+</body>

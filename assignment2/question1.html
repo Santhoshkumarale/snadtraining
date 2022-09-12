@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>closures</title>
+    <script>
+      
+ function add(name) {
+
+             function showName() {
+             console.log('Hi' + ' ' + name);
+          }
+
+           showName();
+    }
+    add('Santhoshkumar ale'); 
+    </script>
+</head>
+<body>
+    <h1> closures </h1>
+    It is an innerfunction that has access to the outerfunction variables.by this closures we can convert the global variable to local variables.
+    And it has the outerfunction and innerfunction connections between them.
+</body>
+</html>
