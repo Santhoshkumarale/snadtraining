@@ -1,0 +1,22 @@
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\bin\Debug\net6.0\assessment3 que11.exe
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\bin\Debug\net6.0\assessment3 que11.deps.json
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\bin\Debug\net6.0\assessment3 que11.runtimeconfig.json
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\bin\Debug\net6.0\assessment3 que11.dll
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\bin\Debug\net6.0\assessment3 que11.pdb
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\obj\Debug\net6.0\assessment3 que11.csproj.AssemblyReference.cache
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\obj\Debug\net6.0\assessment3 que11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\obj\Debug\net6.0\assessment3 que11.AssemblyInfoInputs.cache
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\obj\Debug\net6.0\assessment3 que11.AssemblyInfo.cs
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\obj\Debug\net6.0\assessment3 que11.csproj.CoreCompileInputs.cache
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\obj\Debug\net6.0\assessment3 que11.csproj.CopyComplete
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\obj\Debug\net6.0\assessment3 que11.dll
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\obj\Debug\net6.0\refint\assessment3 que11.dll
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\obj\Debug\net6.0\assessment3 que11.pdb
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\obj\Debug\net6.0\assessment3 que11.genruntimeconfig.cache
+C:\Users\santh\OneDrive\Desktop\assignment 3 ques 11\assessment3 que11\assessment3 que11\obj\Debug\net6.0\ref\assessment3 que11.dll
