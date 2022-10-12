@@ -1,9 +1,12 @@
+
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { NgForm } from '@angular/forms';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Subscription } from 'rxjs';
 import { AuthenticationService } from 'src/app/service/authentication.service';
 import { ILogin } from '../register-model';
+
+
 
 @Component({
   selector: 'app-login',
@@ -12,6 +15,7 @@ import { ILogin } from '../register-model';
 })
 export class LoginComponent implements OnInit, OnDestroy {
 
+  //loginObj = {} as ILogin;
   loginObj = {} as ILogin;
   subscription!: Subscription;
   returnUrl!: string | null;
@@ -23,7 +27,7 @@ export class LoginComponent implements OnInit, OnDestroy {
   ) { }
 
   ngOnInit(): void {
-  
+    //this.loginObj = { userName: 'padma@gmail.com', password: 'Padma@123' }
     this.returnUrl = this.activatedRoute.snapshot.queryParamMap.get("returnUrl");
   }
 
@@ -42,7 +46,7 @@ export class LoginComponent implements OnInit, OnDestroy {
           console.log(data.message);
         }
       },
-      error: reason => console.log(reason)
+      error: (reason: any) => console.log(reason)
     });
   }
 

@@ -12,6 +12,7 @@ import { AuthenticationLayoutComponent } from './layouts/authentication-layout/a
 import { HTTP_INTERCEPTORS } from '@angular/common/http';
 import { TokenInterceptor } from './Interceptors/token.Interceptor';
 import { HttpClientModule } from '@angular/common/http';
+import { SharedModule } from './shared/shared.module';
 
 
 @NgModule({
@@ -27,7 +28,8 @@ import { HttpClientModule } from '@angular/common/http';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    FormsModule
+    FormsModule,
+    SharedModule
     
   ],
   providers: [

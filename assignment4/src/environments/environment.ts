@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false, 
-   ApiUrl: "https://testapi.skilllens.com/api/Accounts/LoginUser"
+   ApiUrl: "https://testapi.skilllens.com/api/"
 };
 
 /*
