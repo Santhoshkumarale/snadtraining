@@ -23,7 +23,7 @@ export class LoginComponent implements OnInit, OnDestroy {
   ) { }
 
   ngOnInit(): void {
-    //this.loginObj = { userName: 'padma@gmail.com', password: 'Padma@123' }
+  
     this.returnUrl = this.activatedRoute.snapshot.queryParamMap.get("returnUrl");
   }
 
