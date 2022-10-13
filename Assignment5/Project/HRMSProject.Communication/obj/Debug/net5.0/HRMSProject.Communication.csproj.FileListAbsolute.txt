@@ -1,0 +1,24 @@
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\bin\Debug\net5.0\HRMSProject.Communication.deps.json
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\bin\Debug\net5.0\HRMSProject.Communication.dll
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\bin\Debug\net5.0\HRMSProject.Communication.pdb
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.csproj.AssemblyReference.cache
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.AssemblyInfoInputs.cache
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.AssemblyInfo.cs
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.csproj.CoreCompileInputs.cache
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.dll
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\obj\Debug\net5.0\refint\HRMSProject.Communication.dll
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.pdb
+D:\Ramakrishna-repository\Project\HRMSProject.Communication\obj\Debug\net5.0\ref\HRMSProject.Communication.dll
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\bin\Debug\net5.0\HRMSProject.Communication.deps.json
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\bin\Debug\net5.0\HRMSProject.Communication.dll
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\bin\Debug\net5.0\HRMSProject.Communication.pdb
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.dll
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\obj\Debug\net5.0\refint\HRMSProject.Communication.dll
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\obj\Debug\net5.0\HRMSProject.Communication.pdb
+C:\Users\Lenovo\Desktop\New folder\snadtraining\Assignment5\Project\HRMSProject.Communication\obj\Debug\net5.0\ref\HRMSProject.Communication.dll
