@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\bin\Debug\net5.0\RAR.Communication.deps.json
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\bin\Debug\net5.0\RAR.Communication.runtimeconfig.json
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\bin\Debug\net5.0\RAR.Communication.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\bin\Debug\net5.0\RAR.Communication.dll
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\bin\Debug\net5.0\RAR.Communication.pdb
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.dll
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\refint\RAR.Communication.dll
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.pdb
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\ref\RAR.Communication.dll

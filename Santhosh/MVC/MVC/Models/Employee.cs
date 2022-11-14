@@ -11,12 +11,16 @@ namespace MVC.Models
 {
     using System;
     using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
     
     public partial class Employee
     {
         public int EmpId { get; set; }
+        [Required(ErrorMessage ="DeptId is required")]
         public int DeptId { get; set; }
+        [Required(ErrorMessage ="EmpName is required")]
         public string EmpName { get; set; }
+        [Required(ErrorMessage ="Emp Salary is required")]
         public decimal EmpSalary { get; set; }
     
         public virtual Department Department { get; set; }

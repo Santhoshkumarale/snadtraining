@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\bin\Debug\net5.0\RAR.Models.deps.json
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\bin\Debug\net5.0\RAR.Models.runtimeconfig.json
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\bin\Debug\net5.0\RAR.Models.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\bin\Debug\net5.0\RAR.Models.dll
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\bin\Debug\net5.0\RAR.Models.pdb
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\obj\Debug\net5.0\RAR.Models.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\obj\Debug\net5.0\RAR.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\obj\Debug\net5.0\RAR.Models.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\obj\Debug\net5.0\RAR.Models.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\obj\Debug\net5.0\RAR.Models.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\obj\Debug\net5.0\RAR.Models.dll
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\obj\Debug\net5.0\refint\RAR.Models.dll
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\obj\Debug\net5.0\RAR.Models.pdb
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\obj\Debug\net5.0\RAR.Models.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Models\obj\Debug\net5.0\ref\RAR.Models.dll
