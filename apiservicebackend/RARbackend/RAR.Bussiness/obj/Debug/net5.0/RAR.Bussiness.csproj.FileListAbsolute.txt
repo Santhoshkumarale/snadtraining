@@ -13,3 +13,11 @@ C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Bussines
 C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Bussiness\obj\Debug\net5.0\RAR.Bussiness.pdb
 C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Bussiness\obj\Debug\net5.0\RAR.Bussiness.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Bussiness\obj\Debug\net5.0\ref\RAR.Bussiness.dll
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Bussiness\obj\Debug\net5.0\RAR.Bussiness.csproj.AssemblyReference.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Bussiness\obj\Debug\net5.0\RAR.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Bussiness\obj\Debug\net5.0\RAR.Bussiness.AssemblyInfoInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Bussiness\obj\Debug\net5.0\RAR.Bussiness.AssemblyInfo.cs
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Bussiness\obj\Debug\net5.0\RAR.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Bussiness\obj\Debug\net5.0\RAR.Bussiness.dll
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Bussiness\obj\Debug\net5.0\refint\RAR.Bussiness.dll
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Bussiness\obj\Debug\net5.0\RAR.Bussiness.pdb

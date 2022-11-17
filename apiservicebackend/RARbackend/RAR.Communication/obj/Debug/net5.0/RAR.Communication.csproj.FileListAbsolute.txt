@@ -13,3 +13,18 @@ C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communic
 C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.pdb
 C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\ref\RAR.Communication.dll
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\bin\Debug\net5.0\RAR.Communication.deps.json
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\bin\Debug\net5.0\RAR.Communication.runtimeconfig.json
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\bin\Debug\net5.0\RAR.Communication.runtimeconfig.dev.json
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\bin\Debug\net5.0\RAR.Communication.dll
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\bin\Debug\net5.0\RAR.Communication.pdb
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.csproj.AssemblyReference.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.AssemblyInfoInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.AssemblyInfo.cs
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.csproj.CoreCompileInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.dll
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\refint\RAR.Communication.dll
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.pdb
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\RAR.Communication.genruntimeconfig.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RAR.Communication\obj\Debug\net5.0\ref\RAR.Communication.dll

@@ -77,3 +77,14 @@ C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RARbackend.M
 C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RARbackend.MVC\bin\Debug\net5.0\RAR.Models.pdb
 C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RARbackend.MVC\bin\Debug\net5.0\RAR.Repository.pdb
 C:\Users\Lenovo\Desktop\New folder (2)\apiservicebackend\RARbackend\RARbackend.MVC\bin\Debug\net5.0\RAR.Utilities.pdb
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RARbackend.MVC\obj\Debug\net5.0\RARbackend.MVC.csproj.AssemblyReference.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RARbackend.MVC\obj\Debug\net5.0\RARbackend.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RARbackend.MVC\obj\Debug\net5.0\RARbackend.MVC.AssemblyInfoInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RARbackend.MVC\obj\Debug\net5.0\RARbackend.MVC.AssemblyInfo.cs
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RARbackend.MVC\obj\Debug\net5.0\RARbackend.MVC.csproj.CoreCompileInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RARbackend.MVC\obj\Debug\net5.0\RARbackend.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RARbackend.MVC\obj\Debug\net5.0\RARbackend.MVC.RazorAssemblyInfo.cache
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RARbackend.MVC\obj\Debug\net5.0\RARbackend.MVC.RazorAssemblyInfo.cs
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RARbackend.MVC\obj\Debug\net5.0\RARbackend.MVC.dll
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RARbackend.MVC\obj\Debug\net5.0\refint\RARbackend.MVC.dll
+C:\Users\santh\OneDrive\Desktop\RARV2\snadtraining\apiservicebackend\RARbackend\RARbackend.MVC\obj\Debug\net5.0\RARbackend.MVC.pdb

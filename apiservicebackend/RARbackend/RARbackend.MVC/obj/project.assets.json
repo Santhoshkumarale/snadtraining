@@ -6140,19 +6140,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\santh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RARbackend.MVC\\RARbackend.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RARbackend.MVC\\RARbackend.MVC.csproj",
       "projectName": "RARbackend.MVC",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RARbackend.MVC\\RARbackend.MVC.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RARbackend.MVC\\obj\\",
+      "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RARbackend.MVC\\RARbackend.MVC.csproj",
+      "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RARbackend.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6166,20 +6166,20 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Bussiness\\RAR.Bussiness.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Bussiness\\RAR.Bussiness.csproj"
+            "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Bussiness\\RAR.Bussiness.csproj": {
+              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Bussiness\\RAR.Bussiness.csproj"
             },
-            "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj"
+            "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj": {
+              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj"
             },
-            "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Models\\RAR.Models.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Models\\RAR.Models.csproj"
+            "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Models\\RAR.Models.csproj": {
+              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Models\\RAR.Models.csproj"
             },
-            "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Repository\\RAR.Repository.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Repository\\RAR.Repository.csproj"
+            "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Repository\\RAR.Repository.csproj": {
+              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Repository\\RAR.Repository.csproj"
             },
-            "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Utilities\\RAR.Utilities.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Utilities\\RAR.Utilities.csproj"
+            "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Utilities\\RAR.Utilities.csproj": {
+              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Utilities\\RAR.Utilities.csproj"
             }
           }
         }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj": {}
+    "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj": {
+    "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj",
+        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj",
         "projectName": "RAR.Communication",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\New folder (2)\\apiservicebackend\\RARbackend\\RAR.Communication\\obj\\",
+        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Communication\\RAR.Communication.csproj",
+        "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARV2\\snadtraining\\apiservicebackend\\RARbackend\\RAR.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
